@@ -1,6 +1,6 @@
  <img
     src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:6528F7,100:b678c4&text=I'm%20Safdar&reversal=true&fontColor=ffffff&stroke=0&desc=imam&descAlign=64&descSize=40&descAlignY=60&fontAlign=47&fontAlignY=43&animation=twinkling&textBg=false"
-    width="100%" />
+   width="100%" />
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p align="center">
 
 * 🌍  I'm based in Ghaziabad, India
