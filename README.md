@@ -4,7 +4,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p align="center">
 
 * 🌍  I'm based in Ghaziabad, India
-* 📑  See my Resume at [safdar786.w3spaces.com](https://safdar786.w3spaces.com/)
 * 🖥️  See my portfolio at [safdarimam786.blogspot.com](https://safdarimam786.blogspot.com/)
 * ✉️  You can contact me at [safdarimam486@gmail.com ](https://mail.google.com/safdarimam486@gmail.com)
 * 🚀  I'm currently working on [safdarimam786.blogspot.com](https://safdarimam786.blogspot.com/)
